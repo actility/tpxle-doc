@@ -1,5 +1,5 @@
 
-# ThingPark Location overview
+# ThingPark Location overview 1
 ThingPark Location is a LPWAN-enabled geolocation service that provides IoT applications with the optimal position of assets and/or people, ensuring:
 * A seamless outdoor/indoor positioning<br/>
 
