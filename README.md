@@ -8,7 +8,7 @@ Before running the project, you need to install the following:
 * [NodeJS](https://nodejs.org/en/download/), needed to compile the VuePress project into an HTML website.
 * [VisualStudio Code](https://code.visualstudio.com/download) or other IDE.
 
-## Running the project
+## Running the project test Sitha
 
 The following commands are all commands used to run the project.
 These commands can be found in the package.json. 
